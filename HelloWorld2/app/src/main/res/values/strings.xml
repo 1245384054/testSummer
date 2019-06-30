@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloWorld2</string>
+    <string name="confirmButton">确认</string>
+    <string name="editLineName">名称</string>
+    <string name="TestViewName">您输入的是：</string>
+    <string name="checkBoxName">勾选选项</string>
+</resources>
